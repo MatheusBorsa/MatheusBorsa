@@ -1,14 +1,13 @@
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Matheus, mas também me chamam de Borsa!
 =====================================================================================================================================
 
-Desenvolvedor e entusiasta da cibersegurança!
+Desenvolvedor e entusiasta da área da tecnologia!
 ---------------------------------------------
 
-Já faz 10 meses que mergulhei de cabeça no mundo da programação e tecnologia! Tenho me dedicado principalmente às linguagens Python, C++ e Bash, explorando suas funcionalidades e aprimorando minhas habilidades. Mas meu verdadeiro interesse? Cibersegurança! Estou focado em me tornar um especialista nesse campo emocionante e desafiador, protegendo sistemas e descobrindo falhas!!
+Já faz 10 meses que mergulhei de cabeça no mundo da programação e tecnologia! Tenho me dedicado principalmente às linguagens Python, C++ e Bash, explorando suas funcionalidades e aprimorando minhas habilidades.
 
 * 🌍  Paraná - Brasil
 * ✉️   Pode me contactar pelo meu e-mail [matheusalek485@icloud.com](mailto:matheusalek485@icloud.com)
-* 🧠  Estou estudando cibersegurança em geral!
 * 🤝  Estou aberto pra trabalhar com todo tipo de projeto!
 
 <a href="https://www.github.com/MatheusBorsa" target="_blank" rel="noreferrer"><img
