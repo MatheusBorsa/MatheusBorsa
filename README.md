@@ -4,7 +4,7 @@
 Desenvolvedor e entusiasta da área da tecnologia!
 ---------------------------------------------
 
-Já faz 10 meses que mergulhei de cabeça no mundo da programação e tecnologia! Tenho me dedicado principalmente às linguagens Python, C++ e Bash, explorando suas funcionalidades e aprimorando minhas habilidades.
+Já faz 10 meses que mergulhei de cabeça no mundo da programação e tecnologia! Tenho me dedicado principalmente às linguagens Java, C++ e Python, explorando suas funcionalidades e aprimorando minhas habilidades.
 
 * 🌍  Paraná - Brasil
 * ✉️   Pode me contactar pelo meu e-mail [matheusalek485@icloud.com](mailto:matheusalek485@icloud.com)
