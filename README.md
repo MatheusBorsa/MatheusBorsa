@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desenvolvedor Back-End Java
 ---------------------------
 
-I first started learning programming in 2023 with back-end development, and later on, I found a passion for the more technical side of things, developing a particular interest in back-end development, especially with Java!
+I first started learning programming in 2023 with front-end development, and later on, I found a passion for the more technical side of things, developing a particular interest in back-end development, especially with Java!
 
 * 🌍  I'm based in Paraná
 * ✉️  You can contact me at [matheusalek485@icloud.com](mailto:matheusalek485@icloud.com)
