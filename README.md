@@ -25,7 +25,3 @@ Comecei a aprender programação em **2023** com desenvolvimento front-end, mas 
 <a href="http://www.github.com/MatheusBorsa"><img src="https://github-readme-stats.vercel.app/api?username=MatheusBorsa&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de MatheusBorsa" /></a>
 
 <a href="https://github.com/MatheusBorsa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBorsa&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Linguagens mais usadas" /></a>
-
-### **📌 Repositórios em Destaque**
-
-<div width="100%" align="center"><a href="https://github.com/MatheusBorsa/inventory-service" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusBorsa&repo=sistema-cadastro&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
