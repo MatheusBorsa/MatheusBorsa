@@ -26,3 +26,12 @@ I'm an enthusiast in all areas of computing, in my free time I watch a lot of co
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/MatheusBorsa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBorsa&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBorsa&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
